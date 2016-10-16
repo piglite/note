@@ -1,0 +1,17 @@
+Chapter 1 Getting to know HTML5:Welcome to Webville
+
+1. some tags get clean and easy write from HTML4.01 to HTML5
+
+4.01 <!DOCTYPE html  PUBLIC "-//W3C//DTD HTML 4.01//EN"
+      "http://www.w3.org/TR/html4/strict.dtd">
+5.0  <!DOCTYPE html>
+
+4.01 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+5.0  <meta charset="utf-8">
+
+4.01 <link type="text/css" rel="stylesheet" href="main.css">
+5.0  <link rel="stylesheet" href="main.css">
+
+what is HTML5?
+
+Markup + Javascripts APIs + CSS = HTML5
