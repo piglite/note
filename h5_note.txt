@@ -12,6 +12,23 @@ Chapter 1 Getting to know HTML5:Welcome to Webville
 4.01 <link type="text/css" rel="stylesheet" href="main.css">
 5.0  <link rel="stylesheet" href="main.css">
 
-what is HTML5?
+2. what is HTML5?
 
 Markup + Javascripts APIs + CSS = HTML5
+
+Chapter 2 Introducing Javascript and the DOM: A Little Code
+
+1. use var declare a variable but no value, the variable now is undefined. And you can give the value null to a variable, that's mean "no value".
+2. Javascript dose have type, but Javascript has dynamic type, which menas that you don't have to specify a type and the Javascript interpreter will figure out what type to use as code running.
+3. how to name a variable:
+   3.1 start with a letter, an underscore(_) or a dollar sign($)
+   3.2 begin with number not good(but can)
+   3.3 begin with symbols aren't allowed
+   3.4 the name got a space is not allowed
+   3.5 the name got -,+ sign is not allowed. these signs will seriously confuse Javascript
+   3.6 make sure avoid all of Javascript's reserved words
+4. guide to better numing
+   4.1 choose names that mean something
+   4.2 use camel case when creating multiword variable names
+   4.3 start with _ and $ only wity very good reason
+   
